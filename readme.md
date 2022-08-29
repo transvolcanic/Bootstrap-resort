@@ -1,4 +1,4 @@
-# _Resort Website Project_
+# _Bootstrap-Resort Website Project_
 ***
 >> By Michael Clarke  
 
@@ -22,7 +22,7 @@ A project to code and style a faux website for a resort including elements featu
 
 ***
 ## Known Bugs
-*Most links on index.html are non-functional.
+*Most links on index.html are non-functional. a
 
 ***
 ## License 
